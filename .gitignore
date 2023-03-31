@@ -147,6 +147,7 @@ group-project/config*
 group-project/geotiff
 group-project/web_tiles
 
+*.csv
 *.tif
 *.gpkg
 data/
